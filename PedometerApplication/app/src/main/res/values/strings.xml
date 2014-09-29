@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My ApplicationPedometer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pedometer">Pedometer Activity</string>
+    <string name="textx">X</string>
+    <string name="texty">Y</string>
+    <string name="textz">Z</string>
+    <string name="reset">Reset</string>
+    <string name="steps">Steps</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="Stop">Stop</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnGetAll">List All</string>
+    <string name="date">Date</string>
+    <string name="step">Step</string>
+    <string name="calorie">Cal</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_data_detail">Data Detail</string>
+    <string name="pedometer">Pedometer</string>
+    <string name="map">Map</string>
+    <string name="compass">Compass</string>
+    <string name="title_activity_data_list">DataList</string>
+
+</resources>
