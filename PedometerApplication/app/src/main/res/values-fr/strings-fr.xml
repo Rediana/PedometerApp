@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutExample</string>
+    <string name="hello_world">Bonjour monde!</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="title_activity_student_detail">Détails des étudiants</string>
+    <string name="btnAdd">Ajouter</string>
+    <string name="btnGetAll">List tous</string>
+    <string name="date">Date</string>
+    <string name="step">Pas</string>
+    <string name="calorie">Calorie</string>
+    <string name="save">Sauver</string>
+    <string name="close">Fermer</string>
+    <string name="delete">Suprimmer</string>
+    <string name="title_activity_data_detail">Détails de dates</string>
+    <string name="textx">X</string>
+    <string name="texty">Y</string>
+    <string name="textz">Z</string>
+    <string name="sensitivity">Sensibilité</string>
+
+</resources>

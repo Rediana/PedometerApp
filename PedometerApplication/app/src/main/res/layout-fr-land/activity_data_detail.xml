@@ -73,22 +73,26 @@
         android:id="@+id/btnSave"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/save"
-        android:layout_above="@+id/btnClose"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/btnClose"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+
+        android:src="@drawable/save" />
     <ImageButton
         android:id="@+id/btnClose"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/close"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+
+        android:src="@drawable/close"/>
     <ImageButton
         android:id="@+id/btnDelete"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@+drawable/delete"
-        android:layout_above="@+id/btnSave"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignTop="@+id/btnSave"
+        android:layout_toLeftOf="@+id/btnSave"
+        android:src="@+drawable/delete"/>
 </RelativeLayout>
